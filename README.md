@@ -29,7 +29,9 @@
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
 
 
+github address: [K-DH][github]
 
+[github]:http://github.com/K-DH
 
 
 
